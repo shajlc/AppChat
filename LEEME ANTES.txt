@@ -1,0 +1,10 @@
+Requisitos:
+
+Innstalar:
+
+*nodeJS version estable
+*ionic 5
+*angular 9
+
+una vez instalado lo necesario ir a la carpeta del programa y ejecutar el comando npm install,
+una vez instaladas las dependencias ejecutar el comando ionic serve o ng serve - o para poder utilizar la aplicacion.
